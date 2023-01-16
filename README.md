@@ -32,3 +32,10 @@ You must first authorize the application. A file `jwt.json` containing your auth
 python -m app.auth.authorize
 ```
 
+## Example Task
+
+Included is an example task. Run it with:
+
+```shell
+python -m app.task
+```
